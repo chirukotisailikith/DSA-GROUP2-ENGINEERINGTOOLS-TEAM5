@@ -1,1 +1,1 @@
-hello epita
+Resolved conflict content
