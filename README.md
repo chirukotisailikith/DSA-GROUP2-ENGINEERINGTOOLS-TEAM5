@@ -1,3 +1,1 @@
-# DSA-GROUP2-ENGINEERINGTOOLS-TEAM5
-DSA-GROUP2-ENGINEERINGTOOLS-TEAM5
-Main branch conflicting update
+Resolved conflict content
